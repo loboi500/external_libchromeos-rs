@@ -1,8 +1,3 @@
-# libchromeos-rs - The Rust crate for common Chrome OS code
-
-`libchromeos-rs` contains Rust code that can be reused across any Chrome OS
-project. It's the Rust equivalent of [libbrillo](../libbrillo/).
-
-Current modules include:
-* `syslog` - an adaptor for using the generic `log` crate with syslog
-* `vsock` - wrappers for dealing with AF_VSOCK sockets
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbc55f2f7267907efd0b30197b83802c589b108bcfb7ad89ecb473387bfb870e
+size 353
